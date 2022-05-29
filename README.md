@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm VeJoy (Yakov)</h1>
+<h1 align="center">👋 Я VeJoy (Яков)</h1>
 <h3 align="center">🦾 Я разработчик ботов для Discord на последней версии discord.js!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ve-jo&label=Profile%20views&color=0e75b6&style=flat" alt="ve-jo" /> </p>
