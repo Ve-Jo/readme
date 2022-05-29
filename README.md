@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ve-jo&label=Profile%20views&color=0e75b6&style=flat" alt="ve-jo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ve-jo" alt="ve-jo" /></a> </p>
-
 - 🔭 Сейчас работаю над [Везя (Vezya)](https://vezyabot.netlify.app/)
 
 - 🧠 Люблю изучать **всякие библиотеки**
